@@ -1,6 +1,38 @@
-.mynav{
-    background-color: #F9F9F9;
+body{
+    font-family: 'Bakbak One', cursive;
+font-family: 'Poppins', sans-serif;
 }
-.container{
-    background-color:#F9F9F9;
+.mybackground{
+    background-color:#F9F9F9
+}
+   
+.nav-link{
+    font-weight: 500;
+    background-color:#F9F9F9 ;
+}
+.get{
+    font-size: 62px;
+    font-weight: 700;
+}
+.app{
+    font-size: 14px;
+    color: #9B2CFA;
+    font-weight: 600;
+}
+.button{
+    color: #9B2CFA;
+    background-color: #9B2CFA;
+}
+.service-icon{
+    background-color: #58ADFD;
+    padding: 14px;
+    border-radius: 50%;
+}
+.icon{
+    font-size: 20px;
+    font-weight: 600;
+
+}
+.border{
+    border-radius: 3%;
 }
