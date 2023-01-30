@@ -28,6 +28,31 @@ font-family: 'Poppins', sans-serif;
     padding: 14px;
     border-radius: 50%;
 }
+.service-icon-2{
+    background-color: #E84C89;
+    padding: 14px;
+    border-radius: 50%;
+}
+.service-icon-3{
+    background-color: #4078FF;
+    padding: 14px;
+    border-radius: 50%;
+}
+.service-icon-4{
+    background-color: #EA763F;
+    padding: 14px;
+    border-radius: 50%;
+}
+.service-icon-5{
+    background-color: #6A88F7;
+    padding: 14px;
+    border-radius: 50%;
+}
+.service-icon-6{
+    background-color: #56B194;
+    padding: 14px;
+    border-radius: 50%;
+}
 .icon{
     font-size: 20px;
     font-weight: 600;
@@ -36,3 +61,22 @@ font-family: 'Poppins', sans-serif;
 .border{
     border-radius: 3%;
 }
+.title{
+    font-weight: 700;
+}
+.arrow{
+    
+}
+.link{
+    border-radius: 40%;
+    border-width: 10px;
+}
+.btn-link{
+    text-decoration: none;
+    border-radius: 30px;
+   background-color: #9B2CFA;
+    padding: 12px 15px ;
+    color: black;
+}
+  
+    
